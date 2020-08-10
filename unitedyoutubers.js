@@ -154,4 +154,4 @@ Invite Counter: http://bit.ly/invites-github
 
 
 });
-client.login("NDczMDkyNzMyMDQzMjY0MDAx.DuPoQA.4yFZf6ia9HT4eP99iEcOREhxfEc");
+client.login("TOKEN");

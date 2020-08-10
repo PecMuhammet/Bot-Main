@@ -1,4 +1,1 @@
-United Discord Bot
-=================
-
-Developed by DamonOnYT#5465
+<h1>United Discord Bot
